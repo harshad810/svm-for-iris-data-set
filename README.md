@@ -1,2 +1,2 @@
 # svm-for-iris-data-set
-support vector machine -ML algorithum for iris dataset
+it's a little data analysis done one very famous dataset IRIS. Support vector machine algorithm has been used for the prediction.
